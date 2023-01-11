@@ -1,3 +1,4 @@
 # pathrise
+#online training, and advice to help job seekers get the best possible jobs in tech.
 I want to work on Pathrise Project 
-I will get datas from the site of pathrise  and get information from students ....
+
